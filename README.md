@@ -1,6 +1,6 @@
 # Exercices C — Franck Sawadogo
 
-Apprentissage du langage C en première année de électronique et informatique industrielle
+Apprentissage du langage C en première année d'électronique et informatique industrielle
 à l'Institut Supérieur de Technologie.
 
 ## Contenu
