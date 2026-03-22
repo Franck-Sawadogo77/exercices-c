@@ -1,7 +1,7 @@
 /*
  * ============================================================
  * Projet     : Calculatrice avec historique
- * Auteur     : Ghislain
+ * Auteur     : Franck
  * Langage    : C
  * Description: Calculatrice en console permettant d'effectuer
  *              les 4 opérations de base (addition, soustraction,
