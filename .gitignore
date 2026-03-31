@@ -1,0 +1,9 @@
+# Ignore compiled files
+*.exe
+*.out
+
+# Ignore object files
+*.o
+
+# Ignore system files
+.DS_Store
