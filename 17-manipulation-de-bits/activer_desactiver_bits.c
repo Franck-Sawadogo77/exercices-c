@@ -10,6 +10,7 @@ void desactiverBit(int* n, int pos) {
 }
 
 int main() {
+   
     int x = 5;  // 101 en binaire
     
     printf("Avant : %d (binaire: 101)\n", x);
