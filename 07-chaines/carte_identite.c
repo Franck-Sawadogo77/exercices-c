@@ -24,7 +24,7 @@ int main(void)
     printf("Nom: %s\n",nom);
     printf("Prénom: %s\n",prenom);
     printf("Ville: %s\n",ville);
-    printf("=============================\n");
+    printf("============================\n");
     
     return 0;
 }
