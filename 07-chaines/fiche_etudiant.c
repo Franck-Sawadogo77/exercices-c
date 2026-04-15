@@ -30,7 +30,7 @@ int main(void)
 	printf("Prénom: %s\n",prenom);
 	printf("Filière: %s\n",filiere);
 	printf("Licence: %s\n",licence);
-	printf("===========================\n");
+	printf("==========================\n");
 	
 	return 0;
 }
